@@ -1,0 +1,29 @@
+body {
+  color: #ffff;
+}
+
+label{
+  width: 100%;
+  text-align: center;
+}
+
+.container {
+  background-color: #212529;
+}
+
+.card {
+  background-color: #6C757D;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.label-error {
+  color: red;
+}
